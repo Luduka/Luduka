@@ -1,16 +1,14 @@
-<!-- BANNIÈRE D'EN-TÊTE ADAPTATIVE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e40c9&height=200&section=header&text=Luduka&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Étudiant%20en%20Informatique%20•%20Développeur%20Web%20Junior%20•%20Futur%20Ingénieur%20IA&descSize=16&descAlignY=58&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eaf6,100:7c4dff&height=200&section=header&text=Luduka&fontSize=70&fontColor=3d2785&fontAlignY=38&desc=Étudiant%20en%20Informatique%20•%20Développeur%20Web%20Junior%20•%20Futur%20Ingénieur%20IA&descSize=16&descAlignY=58&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e40c9&height=200&section=header&text=Luduka&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Étudiant%20en%20Informatique%20•%20Développeur%20Web%20Junior%20•%20Futur%20Ingénieur%20IA&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Bannière Luduka" />
-</picture>
+<!-- BANNIÈRE D'EN-TÊTE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Luduka&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Étudiant%20en%20Informatique%20%7C%20Développeur%20Web%20Junior%20%7C%20Futur%20Ingénieur%20IA&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Bannière Luduka"/>
+</div>
 
 <br/>
 
 <!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6e40c9&center=true&vCenter=true&width=600&lines=Salut+%F0%9F%91%8B+Je+suis+Luduka+!;Développeur+Web+Junior+%F0%9F%9A%80;Passionné+par+l'IA+%F0%9F%A4%96;Toujours+en+train+d'apprendre+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6e40c9&center=true&vCenter=true&width=600&lines=Salut+👋+Je+suis+Luduka+!;Développeur+Web+Junior+🚀;Passionné+par+l'IA+🤖;Toujours+en+train+d'apprendre+📚" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -18,7 +16,7 @@
 
 Étudiant en informatique, développeur web junior passionné par l'IA et l'entrepreneuriat digital. Je passe mes soirées à regarder des vidéos YouTube sur l'IA au lieu de dormir 😅, et j'apprends à coder tout en gérant des projets d'entrepreneuriat digital. Je construis des applications web avec une vraie passion pour le code propre et les architectures modernes.
 
-- 🎯 **Court terme** : Décrocher des collaborations enrichissantes d'ici 2 ans
+- 🎯 **Court terme** : Décrocher des collaborations enrichissantes pour m'aider à monter en compétence,repousser mes limites et propulser macarrière
 - 🌟 **Long terme** : Devenir **AI Full-Stack Engineer**
 - 🌍 Basé en **Afrique**, ouvert aux collaborations **remote**
 - 📬 Contact : **kammeuduhamel@gmail.com**
@@ -82,9 +80,7 @@
           <img src="LIEN_IMAGE_OU_SCREENSHOT_ICI" width="100%" alt="Projet 1"/>
         </a>
       </p>
-      <p align="center">
-        Courte description du projet — ce qu'il fait, à quoi il sert.
-      </p>
+      <p align="center">Courte description du projet.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -111,9 +107,7 @@
           <img src="LIEN_IMAGE_OU_SCREENSHOT_ICI" width="100%" alt="Projet 2"/>
         </a>
       </p>
-      <p align="center">
-        Courte description du projet — ce qu'il fait, à quoi il sert.
-      </p>
+      <p align="center">Courte description du projet.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -135,33 +129,17 @@
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Luduka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=fr" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Luduka&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&locale=fr" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Luduka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=fr" height="180" alt="Stats GitHub"/>
-  </picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luduka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=fr" height="180" alt="Stats GitHub"/>
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Luduka&layout=compact&theme=tokyonight&hide_border=true&locale=fr" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Luduka&layout=compact&theme=buefy&hide_border=true&locale=fr" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luduka&layout=compact&theme=tokyonight&hide_border=true&locale=fr" height="180" alt="Top Langages"/>
-  </picture>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luduka&layout=compact&theme=tokyonight&hide_border=true&locale=fr" height="180" alt="Top Langages"/>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Luduka&theme=tokyonight&hide_border=true&locale=fr" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Luduka&theme=buefy&hide_border=true&locale=fr" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luduka&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak"/>
-  </picture>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luduka&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak"/>
+</div>
 
 ---
 
@@ -198,11 +176,9 @@
 ---
 
 <!-- PIED DE PAGE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d1117&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7c4dff,100:e8eaf6&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d1117&height=100&section=footer" width="100%" alt="Footer"/>
-</picture>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" width="100%" alt="Footer"/>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luduka&color=6e40c9&style=flat-square&label=Visiteurs+du+profil" alt="Compteur de visites"/>
